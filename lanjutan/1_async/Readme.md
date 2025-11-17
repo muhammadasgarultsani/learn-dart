@@ -125,9 +125,9 @@ Bisa dilihat output dari fungsi `counter()` berubah-ubah tidak seperti `Future` 
 ```dart
 Mulai program
 Akhir program
-Detik ke-0
 Detik ke-1
 Detik ke-2
 Detik ke-3
 Detik ke-4
+Detik ke-5
 ```
